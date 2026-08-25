@@ -55,6 +55,28 @@ Software Engineer | Python Developer | GenAI Enthusiast | Cloud & DevOps
   <img src="https://img.shields.io/badge/LLD-Low_Level_Design-6C63FF?style=for-the-badge" />
 </p>
 
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" title="HTML5"/>
+  <b>HTML5</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" title="CSS3"/>
+  <b>CSS3</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" title="Tailwind CSS"/>
+  <b>Tailwind CSS</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" title="JavaScript"/>
+  <b>JavaScript</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" title="TypeScript"/>
+  <b>TypeScript</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" title="React.js"/>
+  <b>React.js</b>
+</p>
+
 ### ⚙️ Backend Development
 
 <p>
