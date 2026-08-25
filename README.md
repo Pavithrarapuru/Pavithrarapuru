@@ -65,11 +65,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>
   Docker
+    <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/><br>
+  Jenkins
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/><br>
-  Jenkins
+
 </p>
 
 <p>
