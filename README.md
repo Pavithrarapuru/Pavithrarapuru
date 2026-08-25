@@ -1,17 +1,49 @@
-# 💫 About Me:
-🚀 Software Engineer building scalable systems with AI, Cloud & Python Development technologies<br>
+<h1 align="center">Hi 👋, I'm Pavithra Rapuru</h1>
+
+<h3 align="center">
+Software Engineer | Python Developer | GenAI Enthusiast | Cloud & DevOps
+</h3>
+
+<p align="center">
+  <i>Building intelligent systems from idea to deployment.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Building+AI+%26+GenAI+Applications;AWS+Cloud+%7C+DevOps+%7C+System+Design;From+Idea+to+Intelligent+Systems+%F0%9F%9A%80" />
+</p>
+
+---
+
+# 💫 About Me
+
+🚀 Software Engineer building scalable systems with AI, Cloud & Python technologies<br>
 🏢 SDE @ AppXcelerate Solutions<br>
-🔧 Experienced in Verint Enterprise Technical Support, Customer Interaction & Contributing to Escalation Resolution<br>
-🧠 Exploring AI Systems, Distributed Systems & System Design<br>
-☁️ Building and deploying applications on AWS<br>
-🌱 Currently deepening my knowledge in AI, HLD & Cloud Architecture<br>
+🔧 Experienced in Verint Enterprise Technical Support, customer interaction & contributing to escalation resolution<br>
+🧠 Exploring AI Systems, Distributed Systems, System Design & LLD<br>
+☁️ Building and deploying applications using AWS Cloud services<br>
+🌱 Currently deepening my knowledge in GenAI, HLD, Cloud Architecture & DevOps<br>
 🤝 Open to collaborating on AI-driven and impactful engineering projects<br>
-💻 Python | SQL | JavaScript | AWS | DevOps | Verint | GenAI | DSA<br>
+💻 Python | SQL | FastAPI | AWS | DevOps | Verint | GenAI | DSA<br>
 ⚡ From an idea → Python Development → GenAI Integration → Cloud & DevOps Deployment<br>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavithrarapuru3154) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavithrarapuru@gmail.com) 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/pavithrarapuru3154)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:pavithrarapuru@gmail.com)
+
+---
+
+# 🎯 Currently Focusing On
+
+* 🧠 Building AI & RAG-based applications
+* 🐍 Advanced Python & Backend Development
+* 🏗️ Low-Level & High-Level System Design
+* ☁️ AWS Cloud Architecture
+* 🚀 Docker, Kubernetes & DevOps
+
+---
 
 # 💻 Tech Stack
 
@@ -26,8 +58,9 @@
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-  <img src="https://img.shields.io/badge/RESTful_API-API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/Python_Backend-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/RESTful_API-API_Development-009688?style=for-the-badge" />
 </p>
 
 ### 🤖 AI & GenAI
@@ -62,26 +95,9 @@
 
 ### 🔧 DevOps & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" title="Docker"/>
-  <b>Docker</b>&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" title="Jenkins"/>
-  <b>Jenkins</b>&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Git"/>
-  <b>Git</b>&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" title="GitHub"/>
-  <b>GitHub</b>&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" title="Linux"/>
-  <b>Linux</b>&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" title="Kubernetes"/>
-  <b>Kubernetes</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,kubernetes" />
 </p>
-
 
 ### 🏢 Enterprise Technologies
 
@@ -94,18 +110,54 @@
   <img src="https://img.shields.io/badge/Speech_Analytics-Verint-5C2D91?style=for-the-badge" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pavithrarapuru&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# 🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pavithrarapuru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧠 Enterprise AI Knowledge Agent
+
+> An AI-powered RAG application for document processing, knowledge retrieval and intelligent question answering.
+
+**Tech:** Python | FastAPI | LangChain | RAG | LLMs | Vector Database
+
+### 🤖 NIVI – AI Virtual Assistant
+
+> An AI-powered virtual assistant with automation and voice capabilities.
+
+**Tech:** Python | Selenium | GPT | Edge-TTS
+
+### 📄 HIRE EASE – Resume Analyzer
+
+> An NLP-based application for resume analysis and candidate insights.
+
+**Tech:** Python | NLP | Streamlit
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pavithrarapuru&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Pavithrarapuru&theme=blue_navy&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> ### **"Code the logic. Build the intelligence. Scale it in the cloud."**
+
+---
+
+# 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Pavithrarapuru\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pavithrarapuru&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
