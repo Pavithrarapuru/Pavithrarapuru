@@ -134,27 +134,7 @@ Software Engineer | Python Developer | GenAI Enthusiast | Cloud & DevOps
 
 ---
 
-# 🚀 Featured Projects
 
-### 🧠 Enterprise AI Knowledge Agent
-
-> An AI-powered RAG application for document processing, knowledge retrieval and intelligent question answering.
-
-**Tech:** Python | FastAPI | LangChain | RAG | LLMs | Vector Database
-
-### 🤖 NIVI – AI Virtual Assistant
-
-> An AI-powered virtual assistant with automation and voice capabilities.
-
-**Tech:** Python | Selenium | GPT | Edge-TTS
-
-### 📄 HIRE EASE – Resume Analyzer
-
-> An NLP-based application for resume analysis and candidate insights.
-
-**Tech:** Python | NLP | Streamlit
-
----
 
 # 📊 GitHub Stats
 
