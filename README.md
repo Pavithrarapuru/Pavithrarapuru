@@ -62,36 +62,26 @@
 
 ### 🔧 DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>
-  Docker
-    <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/><br>
-  Jenkins
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" title="Docker"/>
+  <b>Docker</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" title="Jenkins"/>
+  <b>Jenkins</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Git"/>
+  <b>Git</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" title="GitHub"/>
+  <b>GitHub</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" title="Linux"/>
+  <b>Linux</b>&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" title="Kubernetes"/>
+  <b>Kubernetes</b>
 </p>
 
-<p>
-
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>
-  Git
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>
-  GitHub
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br>
-  Linux
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/><br>
-  Kubernetes
-</p>
 
 ### 🏢 Enterprise Technologies
 
