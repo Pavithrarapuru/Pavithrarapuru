@@ -1,5 +1,13 @@
 # 💫 About Me:
-🚀 Software Engineer building scalable systems with AI, Cloud & Full-Stack technologies<br>🏢 SDE @ Appx Sol.<br>🧠 Exploring AI Systems, Distributed Systems & System Design<br>☁️ Building and deploying applications on AWS<br>🌱 Currently deepening my knowledge in AI, HLD & Cloud Architecture<br>🤝 Open to collaborating on AI-driven and impactful engineering projects<br>💻 Java | Python | MERN | DevOps| AI | DSA<br>⚡ From an idea → architecture → code → deployment<br>
+🚀 Software Engineer building scalable systems with AI, Cloud & Python Development technologies<br>
+🏢 SDE @ AppXcelerate Solutions<br>
+🔧 Experienced in Verint Enterprise Technical Support, Customer Interaction & Contributing to Escalation Resolution<br>
+🧠 Exploring AI Systems, Distributed Systems & System Design<br>
+☁️ Building and deploying applications on AWS<br>
+🌱 Currently deepening my knowledge in AI, HLD & Cloud Architecture<br>
+🤝 Open to collaborating on AI-driven and impactful engineering projects<br>
+💻 Python | SQL | JavaScript | AWS | DevOps | Verint | GenAI | DSA<br>
+⚡ From an idea → Python Development → GenAI Integration → Cloud & DevOps Deployment<br>
 
 
 ## 🌐 Socials:
