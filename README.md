@@ -146,10 +146,8 @@ Software Engineer | Python Developer | GenAI Enthusiast | Cloud & DevOps
 
 ---
 
-# 💭 Developer Philosophy
-
-> ### **"Code the logic. Build the intelligence. Scale it in the cloud."**
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
 # 🔝 Top Contributed Repositories
