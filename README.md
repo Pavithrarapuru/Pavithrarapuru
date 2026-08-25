@@ -63,7 +63,33 @@
 ### 🔧 DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>
+  Docker
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/><br>
+  Jenkins
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>
+  Git
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>
+  GitHub
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br>
+  Linux
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/><br>
+  Kubernetes
 </p>
 
 ### 🏢 Enterprise Technologies
