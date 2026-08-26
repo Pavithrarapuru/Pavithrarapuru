@@ -9,8 +9,9 @@ Software Engineer with Expertise in Verint Enterprise Technical Support | Python
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Building+AI+%26+GenAI+Applications;AWS+Cloud+%7C+DevOps+%7C+System+Design;From+Idea+to+Intelligent+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Verint+Enterprise+Technical+Support;Python+Developer;Generative+AI+Developer;Building+AI+%26+GenAI+Applications;AWS+Cloud+%7C+DevOps+%7C+System+Design;From+Idea+to+Intelligent+Systems+%F0%9F%9A%80" />
 </p>
+
 
 ---
 
