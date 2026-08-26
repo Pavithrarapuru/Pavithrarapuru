@@ -140,12 +140,22 @@ Software Engineer with Expertise in Verint Enterprise Technical Support | Python
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pavithrarapuru&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="Pavithra's GitHub Stats"
+  />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Pavithrarapuru&theme=blue_navy&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Pavithrarapuru&theme=blue_navy&hide_border=false" 
+    alt="GitHub Streak"
+  />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithrarapuru&theme=blue_navy&hide_border=false&layout=compact" 
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
