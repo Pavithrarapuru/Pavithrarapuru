@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pavithra Rapuru</h1>
 
 <h3 align="center">
-Software Engineer | Python Developer | GenAI Developer | Cloud & DevOps
+Software Engineer with Expertise in Verint Enterprise Technical Support | Python & Generative AI Development | Cloud & DevOps
 </h3>
-
 
 <p align="center">
   <i>Building intelligent systems from idea to deployment.</i>
