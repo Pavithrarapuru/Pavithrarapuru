@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavithra Rapuru</h1>
 
 <h3 align="center">
-Software Engineer | Python Developer | GenAI Enthusiast | Cloud & DevOps
+Software Engineer | Verint Enterprise Technical Support | Python & GenAI Developer | Cloud & DevOps
 </h3>
 
 <p align="center">
