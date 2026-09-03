@@ -120,8 +120,9 @@ c
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithrarapuru&theme=github-compact" />
+</p>
   <img src="https://streak-stats.demolab.com/?user=Pavithrarapuru&theme=blue_navy&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithrarapuru&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
